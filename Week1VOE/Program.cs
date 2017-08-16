@@ -51,11 +51,61 @@ namespace Week1VOE
 
             //Console.WriteLine(jessicaAge < samAge);
 
-            int mikeBill = 13;
-            int friendBill = 13;
-            int friend2Bill = 13;
 
-            Console.WriteLine(mikeBill + friendBill + friend2Bill );
+            //int mikeBill = 13;
+            //int friendBill = 13;
+            //int friend2Bill = 13;
+            //// or int totalAge = mikeBill + friendBill + friend2Bill; 
+            //// Console.WriteLine(totalAge);
+            //Console.WriteLine(mikeBill + friendBill + friend2Bill);
+
+            //int cups = 7;
+            //int addedCups = 2;
+            //int totalCups = cups - addedCups;
+            //Console.WriteLine(totalCups);
+
+            //int maxAmount = 40;
+            //int perAmount = 8;
+            //int totalDiapers = maxAmount / perAmount;
+            //Console.WriteLine(totalDiapers);
+
+            //int startAmount = 29;
+            //int endAmount = 41;
+            //int totalRecieved = endAmount - startAmount;
+            //Console.WriteLine(totalRecieved);
+
+            //int juliaMiles = 47;
+            //int previousMiles = 30;
+            //int pranavMiles = juliaMiles - previousMiles;
+            //Console.WriteLine(pranavMiles);
+
+            //int boxmax = 12;
+            //int perbox = 3;
+            //Console.WriteLine(boxmax / perbox);
+
+            //double newAmount = 27.10d;
+            //double paidSalad = 5.12d;
+            //double total = newAmount + paidSalad;
+            //Console.WriteLine(total);
+            //*/
+
+            int numberStudents = 331;
+            int totalBuses = 6;
+            int studentsCar = 7;
+            int totalStudentsAfter = numberStudents - studentsCar;
+            int perBusTotal = totalStudentsAfter / totalBuses;
+            Console.WriteLine(perBusTotal);
+
+            double maxTotal = 24d;
+            int numberPencils = 7;
+            double afterAmount = 10d;
+            double total = maxTotal - afterAmount;
+            int 
+            Console.WriteLine(total / numberPencils);
+
+
+
+
 
 
         }
