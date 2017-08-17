@@ -89,25 +89,40 @@ namespace Week1VOE
             //Console.WriteLine(total);
             //*/
 
-            int numberStudents = 331;
-            int totalBuses = 6;
-            int studentsCar = 7;
-            int totalStudentsAfter = numberStudents - studentsCar;
-            int perBusTotal = totalStudentsAfter / totalBuses;
-            Console.WriteLine(perBusTotal);
+            //int numberStudents = 331;
+            //int totalBuses = 6;
+            //int studentsCar = 7;
+            //int totalStudentsAfter = numberStudents - studentsCar;
+            //int perBusTotal = totalStudentsAfter / totalBuses;
+            //Console.WriteLine(perBusTotal);
 
-            double maxTotal = 24d;
-            int numberPencils = 7;
-            double afterAmount = 10d;
-            double total = maxTotal - afterAmount;
-            int 
-            Console.WriteLine(total / numberPencils);
+            //double maxTotal = 24d;
+            //int numberPencils = 7;
+            //double afterAmount = 10d;
+            //double cashTotal = maxTotal - afterAmount;
+            //double total = cashTotal / numberPencils;
+            //Console.WriteLine(total);
 
+            //int maxNumber = 72;
+            //int numberGiven = 3;
+            //int addedNumber = 3;
+            //int divideNumber = maxNumber - addedNumber;
+            //int smallestNumber = divideNumber / numberGiven;
+            //Console.WriteLine(smallestNumber);
 
+            //int maxNumber = 48;
+            //int numberGiven = 3;
+            //int addedNumber = 6;
+            //int divideNumber = maxNumber - addedNumber;
+            //int smallestNumber = divideNumber / numberGiven;
+            //Console.WriteLine(smallestNumber);
 
-
-
-
-        }
+            //int endBoxes = 22;
+            //int broughtBoxes = 7;
+            //int wholeBoxes = endBoxes + endBoxes;
+            //int startBoxes = wholeBoxes + broughtBoxes;
+            //Console.WriteLine(startBoxes);
+       
+    }
     }
 }
